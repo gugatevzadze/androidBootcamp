@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework_14</string>
+    <string name="add_first_item">Add First Item</string>
+    <string name="add_second_item">Add Second Item</string>
+    <string name="name">name</string>
+    <string name="description">description</string>
+</resources>
