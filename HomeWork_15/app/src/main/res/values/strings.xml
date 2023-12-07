@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework_15</string>
+    <string name="message_space">message space</string>
+    <string name="name_space">name space</string>
+    <string name="_12_00_pm">12:00 PM</string>
+    <string name="_2">2</string>
+    <string name="typing">Typing...</string>
+</resources>

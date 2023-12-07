@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#1F2E35</color>
+    <color name="filter_button">#3ED598</color>
+    <color name="search_bar">#1A282F</color>
+    <color name="line">#B8C2C0</color>
+</resources>
